@@ -1,7 +1,5 @@
 # Build a Security Monitoring System
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-security-monitoring)
-
 **Author:** samhithabbb@gmail.com  
 **Email:** samhithabbb@gmail.com
 
